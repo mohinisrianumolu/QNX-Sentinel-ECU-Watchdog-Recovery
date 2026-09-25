@@ -60,7 +60,7 @@ The framework uses:
 ---
 
 ## System Architecture
-![QNX Neutrino RTOS ECU Recovery Process](qnxarchi.jpeg)
+![QNX Neutrino RTOS ECU Recovery Process](qnxarchitecture.jpeg)
 
 ## Development Status
 
