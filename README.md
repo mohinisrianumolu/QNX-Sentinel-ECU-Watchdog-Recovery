@@ -60,31 +60,7 @@ The framework uses:
 ---
 
 ## System Architecture
-
-```text
-                    QNX Neutrino RTOS
-                           |
-        -----------------------------------------
-        |                |                      |
-   Engine ECU        Brake ECU             Sensor ECU
-        |                |                      |
-        -----------------------------------------
-                           |
-                    Heartbeat Messages
-                           |
-                    Health Monitor
-                           |
-                       Watchdog
-                           |
-                    Failure Detected
-                           |
-                  Recovery Manager
-                           |
-                  Restart Failed ECU
-                           |
-                  Recovery Verification
-                           |
-                    ECU Recovered
+![QNX Neutrino RTOS ECU Recovery Process](qnxarchi.jpeg)
 
 ## Development Status
 
