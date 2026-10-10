@@ -72,7 +72,6 @@ The software part of the project has been completed. We are currently working on
 - Watchdog implementation — Completed
 - Fault detection — Completed
 - ECU recovery — Completed
-- Raspberry Pi integration — In Progress
-- UART communication — In Progress
-- GPIO integration — In Progress
-- Hardware testing — In Progress
+- Raspberry Pi integration — completed
+- GPIO integration — completed
+- Hardware testing — completed
